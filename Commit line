@@ -1,0 +1,53 @@
+pwd
+#Go to File
+cd ..
+cd ..
+dir
+#File ok
+git init
+ls
+ls -A
+git status
+git add
+git add.
+git status
+#SSH follow the github link
+Add email->$ssh-keygen -ted25519-c""
+Passphrase Enter - 
+Your Public Key Name:............
+Your Public key has been saved......pub
+$eval "$(ssh-agent -s)"
+$ssh -add ->Add File Location.
+$cat ......pub[Ideantity]
+git add -A
+git status
+git commit -m"..........."
+git status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
