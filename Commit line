@@ -23,6 +23,13 @@ git add -A
 git status
 git commit -m"..........."
 git status
+git remote add origin SSH LINK
+git remote -v
+git push -u origin master
+Resolving deltas: 100% done.
+To......
+branch 'master' setup to track origin/master
+git status
 
 
 
